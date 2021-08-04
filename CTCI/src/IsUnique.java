@@ -6,7 +6,8 @@ public class IsUnique {
     boolean hasUniqueCharacters(String str) {
         HashSet<Character> mySet = new HashSet(256);
 
-        if (str.length() > 256) return false;
+        if (str.length() > 256)
+            return false;
 
         for (int i = 0; i < str.length(); i++) {
             if (mySet.contains(str.charAt(i))) {
