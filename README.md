@@ -1,8 +1,9 @@
 ## Algorithms and Data Structures
 
-Problem solutions from multiple sources:
+Solutions from multiple sources:
 
 - Leetcode
-- Hackerrank
+- AlgoExpert
+- Educative
 - Elements of Programming Interviews
 - Cracking the Coding Interview
